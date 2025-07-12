@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2025-07-12T18:43:47.345Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "3616972134",
+        "path": "outstatic/content/posts/what-is-this.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-07-12T18:25:38.052Z",
+      "slug": "what-is-this",
+      "status": "draft",
+      "title": "What is this?"
+    }
+  ]
+}
