@@ -1,0 +1,94 @@
+{
+  "commit": "",
+  "generated": "Tue, 15 Jul 2025 14:59:37 GMT",
+  "media": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/android-chrome-192x192.png"
+      },
+      "alt": "",
+      "filename": "android-chrome-192x192.png",
+      "publishedAt": "2025-07-15T14:59:37.284Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/android-chrome-512x512.png"
+      },
+      "alt": "",
+      "filename": "android-chrome-512x512.png",
+      "publishedAt": "2025-07-15T14:59:37.284Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/apple-touch-icon.png"
+      },
+      "alt": "",
+      "filename": "apple-touch-icon.png",
+      "publishedAt": "2025-07-15T14:59:37.284Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/favicon-16x16.png"
+      },
+      "alt": "",
+      "filename": "favicon-16x16.png",
+      "publishedAt": "2025-07-15T14:59:37.284Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/favicon-32x32.png"
+      },
+      "alt": "",
+      "filename": "favicon-32x32.png",
+      "publishedAt": "2025-07-15T14:59:37.284Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/favicon.png"
+      },
+      "alt": "",
+      "filename": "favicon.png",
+      "publishedAt": "2025-07-15T14:59:37.284Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/mutum-logo.svg"
+      },
+      "alt": "",
+      "filename": "mutum-logo.svg",
+      "publishedAt": "2025-07-15T14:59:37.284Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "0",
+        "path": "src/og-image.png"
+      },
+      "alt": "",
+      "filename": "og-image.png",
+      "publishedAt": "2025-07-15T14:59:37.284Z",
+      "type": "image"
+    }
+  ]
+}
