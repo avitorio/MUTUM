@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "Tue, 15 Jul 2025 14:59:37 GMT",
+  "commit": "7d436534ed1152f5f1effa0ddd321698adb5c4a5",
+  "generated": "2025-07-15T14:59:57.859Z",
   "media": [
     {
       "__outstatic": {
@@ -33,6 +33,17 @@
       "alt": "",
       "filename": "apple-touch-icon.png",
       "publishedAt": "2025-07-15T14:59:37.284Z",
+      "type": "image"
+    },
+    {
+      "__outstatic": {
+        "commit": "7d436534ed1152f5f1effa0ddd321698adb5c4a5",
+        "hash": "990018573",
+        "path": "src/dailykill-128w-c3Nz.png"
+      },
+      "alt": "",
+      "filename": "dailykill-128w-c3Nz.png",
+      "publishedAt": "2025-07-15T14:59:57.856Z",
       "type": "image"
     },
     {
